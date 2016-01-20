@@ -5,6 +5,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore huge file
+labs/lab_16/beer_reviews/*
+
 # Distribution / packaging
 .Python
 env/
